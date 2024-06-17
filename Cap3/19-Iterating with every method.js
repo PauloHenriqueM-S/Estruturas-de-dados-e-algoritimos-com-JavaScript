@@ -1,0 +1,1 @@
+numbersç.every(isEven);

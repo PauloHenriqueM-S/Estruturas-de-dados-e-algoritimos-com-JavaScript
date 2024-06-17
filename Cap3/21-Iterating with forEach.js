@@ -1,0 +1,1 @@
+numbers.forEach(x => console.log(x % 2 === 0));

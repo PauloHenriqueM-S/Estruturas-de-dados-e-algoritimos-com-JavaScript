@@ -1,0 +1,1 @@
+numbers.reduce((previus, current) => previus + current);
